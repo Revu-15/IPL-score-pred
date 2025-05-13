@@ -91,8 +91,8 @@ To run the project locally, follow these steps:
 ## Contact
 
 
-- [GitHub]([(https://github.com/Revu-15)])
-- [LinkedIn]([https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/])
+- [GitHub]((https://github.com/Revu-15))
+- [LinkedIn](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
   
 
 ## License
